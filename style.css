@@ -729,6 +729,9 @@ h3 {
     font-style: italic;
 }
 
+#bloc-2-services span{
+    color: black;
+}
 
 .med-width-whitespace {
     max-width: 800px;
