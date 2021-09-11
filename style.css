@@ -4,7 +4,7 @@ body {
     background: #FFF;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    -moz-osx-font-smoothing: grayscale; 
 }
 
 a,
@@ -721,10 +721,12 @@ h3 {
 }
 
 .descriptionServices {
+    font-family: "Open Sans";
     font-size: 22px;
-    font-weight: 500;
 }
 .quoteServices{
+    font-family: "Open Sans";
+    font-weight: 400;
     font-size: 20px;
     font-style: italic;
 }
